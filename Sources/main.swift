@@ -69,7 +69,7 @@ struct LieDetector: ParsableCommand {
   
   static let configuration = CommandConfiguration(
     abstract: "Step 3: liedetector executes a script file from Prepper, sending each prompt to (another) Chatbot and generates a single output file of JSON data which is read by Blender.",
-    version: "0.5.0",
+    version: "0.5.1",
     subcommands: [],
     defaultSubcommand: nil,
     helpNames: [.long, .short]
