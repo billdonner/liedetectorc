@@ -1,6 +1,6 @@
 # LIEDETECTOR - Read a veracity script and Pump thru ChatGPT
 
-Freeport.Software - 0.5.1
+Freeport.Software - 0.5.2
 
 keep batchLim constant <=7 otherwise chatgpt truncates
 ```
